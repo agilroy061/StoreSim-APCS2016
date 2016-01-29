@@ -1,7 +1,7 @@
 public class BeefJerkey {
 public void BeefJerkey(){
-	setCost()= 1000;
-	setStoreCost()= 600;
+	setCost()= 10.00;
+	setStoreCost()= 6.00;
 	setExpiration() = 14;
 	setDesirability() 2;
 	setName() = "BeefJerkey";
